@@ -12,7 +12,7 @@ Clone the repository:
 git clone https://github.com/chirag900155/your-repository.git
 Navigate to the project directory:
 cd your-repository
-Install the dependencies:
+Install the dependencies: 
 npm install
 Usage
 Obtain an API key from OpenWeatherMap. You will need to sign up for an account and generate an API key.
