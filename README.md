@@ -10,7 +10,7 @@ Express.js
 Installation
 Clone the repository:
 git clone https://github.com/chirag900155/your-repository.git
-Navigate to the project directory:
+Navigate to the project directory: 
 cd your-repository
 Install the dependencies: 
 npm install  
