@@ -14,7 +14,7 @@ Navigate to the project directory:
 cd your-repository
 Install the dependencies: 
 npm install
-Usage
+Usage 
 Obtain an API key from OpenWeatherMap. You will need to sign up for an account and generate an API key.
 
 Replace 'YOUR_API_KEY' in the app.js file with your actual OpenWeatherMap API key.
